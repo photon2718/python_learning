@@ -1,1 +1,1 @@
-print("Hello, local Python!")
+print("Hello, local Python3!")
